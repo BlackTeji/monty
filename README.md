@@ -10,7 +10,9 @@ Data structure
  Checker was released at Jan 17, 2024 12:00 AM
  An auto review will be launched at the deadline
 
-
+Github:
+@Blackteji [https://github.com/BlackTeji]
+@Temijopelo [https://github.com/Temijopelo]
 
 Resources
 Read or watch:
